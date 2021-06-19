@@ -1,0 +1,10 @@
+index.html --- riyanshi gupta ke niche tag line
+
+wlcm.html me photo
+
+about.html me text(riyanshi gupta ke niche)
+and ek photo
+
+works -- project add(nodejs + react)
+
+contact me (mail send krna)
